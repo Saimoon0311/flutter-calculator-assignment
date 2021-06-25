@@ -49,7 +49,7 @@ class _HomeState extends State<Home> {
         child:
         
          Container(
-           color: Colors.black,
+          //  color: Colors.black,
               
            child: Column(
             mainAxisAlignment: MainAxisAlignment.end,
@@ -59,7 +59,7 @@ class _HomeState extends State<Home> {
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
-                color: Colors.white
+                color: Colors.black
               ),
             ),
            
